@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX La
 
 You can find my CV here: [Zihao OU's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/rexinMrOU) / [Wechat](../images/wechat.jpg) / [bilibili](https://space.bilibili.com/310204884)
+[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/rexinMrOU) / [Wechat](../images/wechat.png) / [bilibili](https://space.bilibili.com/310204884)
 
 
 
